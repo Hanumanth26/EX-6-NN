@@ -1,4 +1,4 @@
-<H3>Sri varshan P</H3>
+<H3>Sri Varshan P</H3>
 <H3>212222240104</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:22.04.2024</H3>
@@ -121,4 +121,5 @@ print(classification_rep)
 
 
 <H3>Results:</H3>
-Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
+
+#### Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
